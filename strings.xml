@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">S21Q1</string>
+    <string name="name">WELCOME, SHAYRAN SHEKATKAR</string>
+    <string name="one">Aadhar number-</string>
+    <string name="two">Name-</string>
+    <string name="three">DOB-</string>
+    <string name="four">Gender-</string>
+    <string name="five">Address-</string>
+    <string name="six">Contact number-</string>
+</resources>
